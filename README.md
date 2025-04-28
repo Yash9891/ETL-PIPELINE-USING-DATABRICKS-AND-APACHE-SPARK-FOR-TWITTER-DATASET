@@ -1,7 +1,3 @@
-# ETL PIPELINE USING DATABRICKS AND APACHE SPARK FOR TWITTER DATASET
-
-Of course! Here's a **professional and detailed README** you can use for your GitHub project titled:
-
 ---
 
 # ETL Pipeline Using Databricks and Apache Spark for Twitter Dataset
